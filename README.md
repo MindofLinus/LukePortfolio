@@ -3,7 +3,7 @@ Luke Pomeroy Portolio Online
 
 Current Work:
 
-a) Environmental Scientist currently working at Environmental Air Quality Division company specializing in Clean Air Act of California, through CALSTART, California Air Resources Board, and Hydrogen Zero Emission and Hybrid Vehicle Voucher Incentive Program at Tetra Tech.
+- Environmental Scientist currently working at Environmental Air Quality Division company specializing in Clean Air Act of California, through CALSTART, California Air Resources Board, and Hydrogen Zero Emission and Hybrid Vehicle Voucher Incentive Program at Tetra Tech.
 
 Accomplishments:
 
@@ -23,10 +23,10 @@ Skills:
 
 Projects:
 
-a) Ongoing Minecraft Java Edition Development Server comprising of 100 players through Linux, Mac OS, or Windows using Java JRE and JDK 17. Currently Administrator for plugin creation, modification, and content creator for the server, all can be accessed and played currently today via IP Address: Rufuscraft.hopto.org (Enter in Multiplayer Menu Minecraft Java Edition or Bedrock Edition - Both are supported but the majority of active development is on the Java edition of the server) View Community Online Website for updates: ucmerced.enjin.com
+- Ongoing Minecraft Java Edition Development Server comprising of 100 players through Linux, Mac OS, or Windows using Java JRE and JDK 17. Currently Administrator for plugin creation, modification, and content creator for the server, all can be accessed and played currently today via IP Address: Rufuscraft.hopto.org (Enter in Multiplayer Menu Minecraft Java Edition or Bedrock Edition - Both are supported but the majority of active development is on the Java edition of the server) View Community Online Website for updates: ucmerced.enjin.com
 
-b) Swift iOS Development of Childrens Point-and-Click adventure game Distant Shores - Will release beta test versions sometime in 2023. Currently testers are private family or friends. Not released to the public.
+- Swift iOS Development of Childrens Point-and-Click adventure game Distant Shores - Will release beta test versions sometime in 2023. Currently testers are private family or friends. Not released to the public.
 
-c) Python student, learning basic coding along the way with small projects.
+- Python student, learning basic coding along the way with small projects.
 
 

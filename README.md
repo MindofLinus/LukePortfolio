@@ -6,7 +6,8 @@ Current Work:
 a) Environmental Scientist currently working at Environmental Air Quality Division company specializing in Clean Air Act of California, through CALSTART, California Air Resources Board, and Hydrogen Zero Emission and Hybrid Vehicle Voucher Incentive Program at Tetra Tech.
 
 Accomplishments:
-- Theater Arts Director in High School
+
+- Video Editor for University of California Merced in 2019-2020. See video projects on FaceBook.com/UCMercedPolice
 
 - President and Director of a theatrical club on campus at UC Merced that provided the campus community with one performance a semester, either a play or a musical from 2016 to 2019
 
@@ -28,5 +29,4 @@ b) Swift iOS Development of Childrens Point-and-Click adventure game Distant Sho
 
 c) Python student, learning basic coding along the way with small projects.
 
-d) Video Editor for University of California Merced in 2019-2020. See video projects on FaceBook.com/UCMercedPolice
 

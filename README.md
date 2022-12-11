@@ -3,7 +3,7 @@ Luke Pomeroy Portolio Online
 
 Current Work:
 
-- Environmental Scientist currently working at Environmental Air Quality Division company specializing in Clean Air Act of California, through CALSTART, California Air Resources Board, and Hydrogen Zero Emission and Hybrid Vehicle Voucher Incentive Program at Tetra Tech.
+- Environmental Scientist currently working at Environmental Air Quality Division company specializing in Clean Air Act of California, through CALSTART, California Air Resources Board, and Hydrogen Zero Emission and Hybrid Vehicle Voucher Incentive Program at Tetra Tech - visit Tetratech.com 
 
 Accomplishments:
 
@@ -11,13 +11,13 @@ Accomplishments:
 
 - President and Director of a theatrical club on campus at UC Merced that provided the campus community with one performance a semester, either a play or a musical from 2016 to 2019
 
-- Ongoing Deployment of a computer game network that cultures creativity of architecture and design, for children, teens, and adults alike. An online sandbox environment for learning.
+- Ongoing Deployment of a computer game network that cultures creativity of architecture and design, for children, teens, and adults alike. An online sandbox environment for learning - visit ucmerced.enjin.com
 
 Skills:
 
-- Advanced Proficient in Final Cut Pro & Adobe Premiere Pro Video Editing software with experience in planning, production, filming, and editing post production content for large corporations (see user-reviews.org/about for examples)
+- Advanced Proficient in Final Cut Pro & Adobe Premiere Pro Video Editing software with experience in planning, production, filming, and editing post production content for large corporations (see facebook.com/UCMercedPolice 2019-2020 Search by date for examples)
 
-- Advanced Proficient in Microsoft Windows, Linux, Mac OS, down to the command line if prompted to use only the command line to create, modify, copy, move, remove, and structure file systems
+- Advanced Proficient in Microsoft Windows, Linux, Mac OS, down to the command line if prompted to use only the command line to create, modify, copy, move, remove, and clone file structure systems
 
 - Proficient in iOS Software Development using Swift by Apple in creating small apps, to small 2D games.
 

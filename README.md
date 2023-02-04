@@ -1,9 +1,12 @@
 # LukePortfolio
 Luke Pomeroy Portolio Online
 
-Current Work:
+Current Work Full Time:
 
-- Environmental Scientist currently working at Environmental Air Quality Division company specializing in Clean Air Act of California, through CALSTART, California Air Resources Board, and Hydrogen Zero Emission and Hybrid Vehicle Voucher Incentive Program at Tetra Tech - visit Tetratech.com 
+- Environmental Scientist currently working at Tetra Tech's Air Quality Division specializing in:
+1. Clean Air Act of California, through CALSTART, California Air Resources Board, in the California Hybrid Zero Emission Voucher Incentive Program (HVIP.org) giving incentives of 30-50% off purchases of EV, Hydrogen, Hybrid Fleets for transition to clean energy away from diesel at Tetra Tech - visit Tetratech.com 
+2. New York Department of Transportation : New York Clean Trucks Program, through TetraTech. Provide incentives for fleets in New York and Hunts Point Port in New York to transition away from diesel and to clean energy Hydrogen, Hybrid, and Zero-Emission vehicles.
+3. Los Angeles Sanitation : Los Angeles Green Business Program, through TetraTech.
 
 Accomplishments:
 

@@ -28,7 +28,9 @@ Projects:
 
 - Ongoing Minecraft Java Edition Development Server comprising of 100 players through Linux, Mac OS, or Windows using Java JRE and JDK 17. Currently Administrator for plugin creation, modification, and content creator for the server, all can be accessed and played currently today via IP Address: Rufuscraft.hopto.org (Enter in Multiplayer Menu Minecraft Java Edition or Bedrock Edition - Both are supported but the majority of active development is on the Java edition of the server) View Community Online Website for updates: ucmerced.enjin.com
 
-- Swift iOS Development of Childrens Point-and-Click adventure game Distant Shores - Will release beta test versions sometime in 2023. Currently testers are private family or friends. Not released to the public.
+- Swift and SwiftUI iOS Development of Childrens Point-and-Click adventure game Distant Shores - Will release public beta test versions in late 2023/ \early 2024. Currently testers are private family or friends. Not released to the public. 
+  If you are interested in working on this Swift project in Apple's Xcode along with me, please send me a message here or on LinkedIn. I am not going to publically make the code available unless someone asks for it who can review Swift and SwiftUI. 
+  The project was designed for iOS 12.0 as the minimum required version running on iPhone 6S Plus required at the very least with iOS 12.0 - Preferrably iPhone XS Max or newer with iOS 14.0 or later.
 
 - Python student, learning basic coding along the way with small projects.
 

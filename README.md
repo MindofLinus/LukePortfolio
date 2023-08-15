@@ -7,6 +7,7 @@ Current Work Full Time:
 1. Clean Air Act of California, through CALSTART, California Air Resources Board, in the California Hybrid Zero Emission Voucher Incentive Program (HVIP.org) giving incentives of 30-50% off purchases of EV, Hydrogen, Hybrid Fleets for transition to clean energy away from diesel at Tetra Tech - visit Tetratech.com 
 2. New York Department of Transportation : New York Clean Trucks Program, through TetraTech. Provide incentives for fleets in New York and Hunts Point Port in New York to transition away from diesel and to clean energy Hydrogen, Hybrid, and Zero-Emission vehicles.
 3. Los Angeles Sanitation : Los Angeles Green Business Program, through TetraTech.
+4. Greenhouse Gas : Emisssions verification through reported data, using published formulas and documentation for proper regulatory emission calculation for CO2e = CO2 equivalent emissions in the form of NO2, CH4, and CO2 respectivley in summarization for total emissions produced.
 
 Accomplishments:
 
@@ -31,6 +32,8 @@ Projects:
 - Swift and SwiftUI iOS Development of Childrens Point-and-Click adventure game Distant Shores - Will release public beta test versions in late 2023\early 2024. Currently testers are private family or friends. Not released to the public. 
   If you are interested in working on this Swift project in Apple's Xcode along with me, please send me a message here or on LinkedIn. I am not going to publically make the entire code available unless someone asks for it who can review Swift and SwiftUI. 
   The project was designed with Swift libraries for iOS 12.0 as the minimum required version running on iPhone 6S Plus or later. Preferreably iPhone XS Max or later, as most all of the assets support the Notch'd iPhones. Asset files have been created, GameScene.swift and GameScene.sks have the most work completed, (the main branch for the rest of the projects code) See sample tab for GameScene.swift excerpt of main code.
+
+- Computer Hardware repair: I have fixed 2013, 2015, and 2020 Macbook Pro's / Air's components after much trial and error as many do when they are first learning, but I have confidence in my ability to repair Macbooks Battery, Screen, Speakers, Wifi / Bluetooth module, and more. I have been tinkering with computers at a very young age, and it still fascinates me to this day to continue to prove my effectivness at recycling older components instead of buying all that new wasteful tech! Let's use what we bought in 2014 still today! There is no reason to upgrade computers for 95% of users out there. 
 
 - Python student, learning basic coding along the way with small projects.
 

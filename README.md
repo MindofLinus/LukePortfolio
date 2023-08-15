@@ -7,7 +7,7 @@ Current Work Full Time:
 1. Clean Air Act of California, through CALSTART, California Air Resources Board, in the California Hybrid Zero Emission Voucher Incentive Program (HVIP.org) giving incentives of 30-50% off purchases of EV, Hydrogen, Hybrid Fleets for transition to clean energy away from diesel at Tetra Tech - visit Tetratech.com 
 2. New York Department of Transportation : New York Clean Trucks Program, through TetraTech. Provide incentives for fleets in New York and Hunts Point Port in New York to transition away from diesel and to clean energy Hydrogen, Hybrid, and Zero-Emission vehicles.
 3. Los Angeles Sanitation : Los Angeles Green Business Program, through TetraTech.
-4. Greenhouse Gas : Emisssions verification through reported data, using published formulas and documentation for proper regulatory emission calculation for CO2e = CO2 equivalent emissions in the form of NO2, CH4, and CO2 respectivley in summarization for total emissions produced.
+4. Greenhouse Gas : Emisssions verification through reported data, using published formulas and documentation for proper regulatory emission calculation for CO2e = CO2 equivalent emissions in the form of NO2, CH4, and CO2 respectively in summarization for total emissions produced.
 
 Accomplishments:
 
